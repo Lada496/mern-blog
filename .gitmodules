@@ -1,0 +1,6 @@
+[submodule "mern-blog-frontend"]
+	path = mern-blog-frontend
+	url = https://github.com/Lada496/mern-blog-frontend
+[submodule "mern-blog-backend"]
+	path = mern-blog-backend
+	url = https://github.com/Lada496/mern-blog-backend
