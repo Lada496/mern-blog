@@ -1,5 +1,5 @@
 # Your Diary
-A Blog with MERN stack.
+A Blog with MERN stack. You can create posts, edit posts, delete posts, like posts, and comment on posts.
 Please visit the following links to see the detailed explanation of each side: 
 - [backend](https://github.com/Lada496/mern-blog-backend/blob/main/README.md)
 - [frontend](https://github.com/Lada496/mern-blog-frontend/blob/main/README.md)
