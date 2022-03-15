@@ -1,4 +1,4 @@
-# mern-blog
+# Your Diary
 A Blog with MERN stack.
 Please visit the following links to see the detailed explanation of each side: 
 - [backend](https://github.com/Lada496/mern-blog-backend/blob/main/README.md)
