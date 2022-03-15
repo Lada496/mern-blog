@@ -10,8 +10,8 @@ Please visit the following links to see the detailed explanation of each side:
 - Deepen my understanding about Tailwind CSS
 - Try JWT authentication
 ## Challenges
-- Providing posts with chronological order with mongoose
-- Imprementing a redirect funtion so that user can return the provious page after login
+- Providing posts in chronological order with mongoose
+- Implementing a redirect funtion so that user can return the provious page after login
 
 ## Built With
 - React
